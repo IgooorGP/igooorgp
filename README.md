@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
 </a>&nbsp;&nbsp;
   
-<a href="/">
+<a href="/IgooorGP">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-<a href="/">
+<a href="/IgooorGP">
   <img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>

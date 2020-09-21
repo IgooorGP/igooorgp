@@ -18,6 +18,14 @@
 </a>&nbsp;&nbsp;
 </p>
 
+<center>
+<table>
+  <tr>
+      <td><img width="495px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=IgooorGP&theme=dark&count_private=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats-three-puce-ricardo.vercel.app/api/top-langs/?username=IgooorGP&hide=javascript,emacs Lisp, jupyter notebook&layout=compact&theme=dark&count_private=true" /></td>
+  </tr>
+</table>
+</center>
 
 Hoi! My name's Igor! Coding and learning technologies are my hobbies! As a consequence, I'm usually around here trying to develop some ideas 💡!
 

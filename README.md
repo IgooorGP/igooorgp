@@ -7,12 +7,3 @@ Programming and learning new technologies are my hobbies, so I'm usually around 
 Please, visit my [website](https://www.ipeternella.com/) to know more about me and my [blog](https://www.ipeternella.com/blog) where I write about technology and computing.
  
 Thanks for visting my profile!
-
-<center>
-<table>
-  <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ipeternella&theme=chartreuse-dark&hide_border=true" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipeternella&hide=emacs%20lisp,java,javascript,jupyter%20notebook&layout=compact&hide_border=true&theme=chartreuse-dark" /></td>
-  </tr>
-</table>
-</center>
